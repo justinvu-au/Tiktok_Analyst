@@ -1,7 +1,9 @@
 # Tiktok_Analyst
 Used the information from Tiktok dataset to understand watching trends of users.\
 Step 1:
-- Download the Tiktok dataset.\ Step 2:
+- Download the Tiktok dataset.\
+
+Step 2:
 - Import the dataset to Jupyter/Google Colab or any notebook you are using
 - Analyse data and visualize the outcomes\\
 Step 3:
